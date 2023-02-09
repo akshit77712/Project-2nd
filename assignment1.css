@@ -5,7 +5,7 @@ body{
     
 }
 header{
-    background-image: url(photos/genshin1.webp);
+    background-image: url(genshin1.webp);
     background-size: cover;
     background-position: 00px 550px;
     display: flex;
@@ -24,7 +24,7 @@ h1{
     font-size: 60px;
 }
 #profile-pic{
-    background-image: url("photos/logo.jpg");
+    background-image: url("logo.jpg");
     background-size: cover;
     margin-right: auto;
     margin-left: auto;
@@ -71,7 +71,7 @@ div2{
     margin-right: auto;
     margin-left: auto;
     font-size: 50px;
-    background-image: url("photos/liyue.png") ;
+    background-image: url("liyue.png") ;
      
     border-style: solid;
     border-width: 5px;
@@ -92,7 +92,7 @@ div2{
     margin-right: auto;
     margin-left: auto;
     font-size: 50px;
-    background-image: url("photos/sumeru.png") ;
+    background-image: url("sumeru.png") ;
      
     border-style: solid;
     border-width: 5px;
@@ -113,7 +113,7 @@ div2{
     margin-right: auto;
     margin-left: auto;
     font-size: 50px;
-    background-image: url("photos/inazuma.jpg") ;
+    background-image: url("inazuma.jpg") ;
     background-size: 100%;
      
     border-style: solid;
@@ -141,7 +141,7 @@ div2{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin-right: auto;
     margin-left: auto;
-    background-image:url("photos/sumeru.png");
+    background-image:url("sumeru.png");
     opacity: 90%;
     background-repeat: no-repeat;
     
@@ -162,7 +162,7 @@ div2{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin-right: auto;
     margin-left: auto;
-    background-image:url("photos/inazuma.jpg");
+    background-image:url("inazuma.jpg");
    
     background-repeat: no-repeat;
     background-size: 100%;
@@ -184,14 +184,14 @@ div2{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin-right: auto;
     margin-left: auto;
-    background-image:url("photos/liyue.png");
+    background-image:url("liyue.png");
    
     background-repeat: no-repeat;
     background-size: 100%;
 
 }
 .zhongli{
-    background-image: url("photos/zhongli.jpeg");
+    background-image: url("zhongli.jpeg");
     border: 5px solid rgb(233, 168, 4);
     width:775px;
     height:400px;
@@ -207,7 +207,7 @@ div2{
 
 }    
 .al{
-    background-image: url("photos/al.jpg");
+    background-image: url("al.jpg");
     width:800px;
     height:500px;
     background-size: 100%;
@@ -218,7 +218,7 @@ div2{
 }
 
 .ayato{
-    background-image: url("photos/ayato.jpg");
+    background-image: url("ayato.jpg");
     width:800px;
     height:450px;
     background-size: 100%;
